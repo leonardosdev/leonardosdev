@@ -1,6 +1,6 @@
-### Hi there :rocket:
+### Olá :rocket:
 
-Eu sou o Leonardo Souza, Sou um programador Front End atualmente estou aprendendo e desenvolvendo projetos com: 
+Meu nome é Leonardo Souza, Sou um programador Front End atualmente estou aprendendo e desenvolvendo projetos com: 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
