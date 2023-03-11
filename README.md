@@ -18,6 +18,10 @@ Entre em contato comigo:
 
  <a href="https://www.linkedin.com/in/leonardo-souza-aa078a261/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
  
+ <a href="https://wa.me/+5516997386595"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+ 
+ 
+ 
  <br>
  
  ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardosdev&show_icons=true&theme=dark)
